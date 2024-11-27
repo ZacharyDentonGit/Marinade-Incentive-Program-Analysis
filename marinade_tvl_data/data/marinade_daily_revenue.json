@@ -1,0 +1,3506 @@
+{
+  "id": "parent#marinade-finance",
+  "name": "Marinade",
+  "url": "https://marinade.finance/",
+  "description": "All you ever need in one place for Solana Staking",
+  "logo": "https://icons.llama.fi/marinade.jpg",
+  "gecko_id": "marinade",
+  "cmcId": "13803",
+  "chains": [],
+  "twitter": "MarinadeFinance",
+  "github": [
+    "marinade-finance"
+  ],
+  "treasury": "marinade.js",
+  "childProtocols": [
+    "Marinade Liquid Staking",
+    "Marinade Native"
+  ],
+  "disabled": null,
+  "displayName": "Marinade",
+  "module": null,
+  "category": null,
+  "methodologyURL": null,
+  "methodology": null,
+  "forkedFrom": null,
+  "audits": null,
+  "address": null,
+  "audit_links": null,
+  "versionKey": null,
+  "governanceID": null,
+  "parentProtocol": null,
+  "latestFetchIsOk": true,
+  "slug": "marinade",
+  "protocolType": "protocol",
+  "total24h": 13669,
+  "total48hto24h": 14164,
+  "total7d": 91496,
+  "totalAllTime": 5765746,
+  "totalDataChart": [
+    [
+      1708387200,
+      6983
+    ],
+    [
+      1708473600,
+      6901
+    ],
+    [
+      1708560000,
+      6857
+    ],
+    [
+      1708646400,
+      6695
+    ],
+    [
+      1708732800,
+      6997
+    ],
+    [
+      1708819200,
+      6945
+    ],
+    [
+      1708905600,
+      7462
+    ],
+    [
+      1708992000,
+      7358
+    ],
+    [
+      1709078400,
+      7983
+    ],
+    [
+      1709164800,
+      9034
+    ],
+    [
+      1709251200,
+      8834
+    ],
+    [
+      1709337600,
+      8851
+    ],
+    [
+      1709424000,
+      8891
+    ],
+    [
+      1709510400,
+      8980
+    ],
+    [
+      1709596800,
+      8485
+    ],
+    [
+      1709683200,
+      9571
+    ],
+    [
+      1709769600,
+      10311
+    ],
+    [
+      1709856000,
+      10409
+    ],
+    [
+      1709942400,
+      10486
+    ],
+    [
+      1710028800,
+      9932
+    ],
+    [
+      1710115200,
+      10809
+    ],
+    [
+      1710201600,
+      10817
+    ],
+    [
+      1710288000,
+      11984
+    ],
+    [
+      1710374400,
+      11797
+    ],
+    [
+      1710460800,
+      12561
+    ],
+    [
+      1710547200,
+      13248
+    ],
+    [
+      1710633600,
+      12934
+    ],
+    [
+      1710720000,
+      14738
+    ],
+    [
+      1710806400,
+      12660
+    ],
+    [
+      1710892800,
+      14047
+    ],
+    [
+      1710979200,
+      12826
+    ],
+    [
+      1711065600,
+      12780
+    ],
+    [
+      1711152000,
+      12722
+    ],
+    [
+      1711238400,
+      13352
+    ],
+    [
+      1711324800,
+      13911
+    ],
+    [
+      1711411200,
+      13906
+    ],
+    [
+      1711497600,
+      13264
+    ],
+    [
+      1711584000,
+      13752
+    ],
+    [
+      1711670400,
+      14029
+    ],
+    [
+      1711756800,
+      14234
+    ],
+    [
+      1711843200,
+      14759
+    ],
+    [
+      1711929600,
+      13809
+    ],
+    [
+      1712016000,
+      13378
+    ],
+    [
+      1712102400,
+      13335
+    ],
+    [
+      1712188800,
+      13114
+    ],
+    [
+      1712275200,
+      12622
+    ],
+    [
+      1712361600,
+      13093
+    ],
+    [
+      1712448000,
+      12784
+    ],
+    [
+      1712534400,
+      13027
+    ],
+    [
+      1712620800,
+      12446
+    ],
+    [
+      1712707200,
+      12482
+    ],
+    [
+      1712793600,
+      12573
+    ],
+    [
+      1712880000,
+      10810
+    ],
+    [
+      1712966400,
+      9904
+    ],
+    [
+      1713052800,
+      10690
+    ],
+    [
+      1713139200,
+      9901
+    ],
+    [
+      1713225600,
+      9828
+    ],
+    [
+      1713312000,
+      9518
+    ],
+    [
+      1713398400,
+      9325
+    ],
+    [
+      1713484800,
+      10167
+    ],
+    [
+      1713571200,
+      10618
+    ],
+    [
+      1713657600,
+      10425
+    ],
+    [
+      1713744000,
+      11170
+    ],
+    [
+      1713830400,
+      10999
+    ],
+    [
+      1713916800,
+      10336
+    ],
+    [
+      1714003200,
+      10154
+    ],
+    [
+      1714089600,
+      9620
+    ],
+    [
+      1714176000,
+      10081
+    ],
+    [
+      1714262400,
+      9650
+    ],
+    [
+      1714348800,
+      9570
+    ],
+    [
+      1714435200,
+      8705
+    ],
+    [
+      1714521600,
+      8986
+    ],
+    [
+      1714608000,
+      9740
+    ],
+    [
+      1714694400,
+      9857
+    ],
+    [
+      1714780800,
+      9997
+    ],
+    [
+      1714867200,
+      10073
+    ],
+    [
+      1714953600,
+      10796
+    ],
+    [
+      1715040000,
+      10221
+    ],
+    [
+      1715126400,
+      9847
+    ],
+    [
+      1715212800,
+      10479
+    ],
+    [
+      1715299200,
+      9836
+    ],
+    [
+      1715385600,
+      9961
+    ],
+    [
+      1715472000,
+      9596
+    ],
+    [
+      1715558400,
+      9947
+    ],
+    [
+      1715644800,
+      9687
+    ],
+    [
+      1715731200,
+      10936
+    ],
+    [
+      1715817600,
+      10971
+    ],
+    [
+      1715904000,
+      11860
+    ],
+    [
+      1715990400,
+      11815
+    ],
+    [
+      1716076800,
+      11738
+    ],
+    [
+      1716163200,
+      12590
+    ],
+    [
+      1716249600,
+      12165
+    ],
+    [
+      1716336000,
+      12130
+    ],
+    [
+      1716422400,
+      11787
+    ],
+    [
+      1716508800,
+      11389
+    ],
+    [
+      1716595200,
+      11317
+    ],
+    [
+      1716681600,
+      11238
+    ],
+    [
+      1716768000,
+      11554
+    ],
+    [
+      1716854400,
+      11446
+    ],
+    [
+      1716940800,
+      11518
+    ],
+    [
+      1717027200,
+      11314
+    ],
+    [
+      1717113600,
+      11299
+    ],
+    [
+      1717200000,
+      11208
+    ],
+    [
+      1717286400,
+      11026
+    ],
+    [
+      1717372800,
+      8573
+    ],
+    [
+      1717459200,
+      11029
+    ],
+    [
+      1717545600,
+      11548
+    ],
+    [
+      1717632000,
+      11490
+    ],
+    [
+      1717718400,
+      11212
+    ],
+    [
+      1717804800,
+      10747
+    ],
+    [
+      1717891200,
+      10326
+    ],
+    [
+      1717977600,
+      10553
+    ],
+    [
+      1718064000,
+      10273
+    ],
+    [
+      1718150400,
+      9618
+    ],
+    [
+      1718236800,
+      9940
+    ],
+    [
+      1718323200,
+      9549
+    ],
+    [
+      1718409600,
+      9246
+    ],
+    [
+      1718496000,
+      9267
+    ],
+    [
+      1718582400,
+      9412
+    ],
+    [
+      1718668800,
+      8553
+    ],
+    [
+      1718755200,
+      8594
+    ],
+    [
+      1718841600,
+      8407
+    ],
+    [
+      1718928000,
+      8322
+    ],
+    [
+      1719014400,
+      8337
+    ],
+    [
+      1719100800,
+      8349
+    ],
+    [
+      1719187200,
+      7763
+    ],
+    [
+      1719273600,
+      8347
+    ],
+    [
+      1719360000,
+      8512
+    ],
+    [
+      1719446400,
+      8349
+    ],
+    [
+      1719532800,
+      8906
+    ],
+    [
+      1719619200,
+      8582
+    ],
+    [
+      1719705600,
+      8454
+    ],
+    [
+      1719792000,
+      8881
+    ],
+    [
+      1719878400,
+      8893
+    ],
+    [
+      1719964800,
+      9036
+    ],
+    [
+      1720051200,
+      8160
+    ],
+    [
+      1720137600,
+      7381
+    ],
+    [
+      1720224000,
+      8024
+    ],
+    [
+      1720310400,
+      8376
+    ],
+    [
+      1720396800,
+      7731
+    ],
+    [
+      1720483200,
+      8241
+    ],
+    [
+      1720569600,
+      8304
+    ],
+    [
+      1720656000,
+      8339
+    ],
+    [
+      1720742400,
+      8036
+    ],
+    [
+      1720828800,
+      8137
+    ],
+    [
+      1720915200,
+      8449
+    ],
+    [
+      1721001600,
+      8823
+    ],
+    [
+      1721088000,
+      9359
+    ],
+    [
+      1721174400,
+      9400
+    ],
+    [
+      1721260800,
+      9298
+    ],
+    [
+      1721347200,
+      9406
+    ],
+    [
+      1721433600,
+      9927
+    ],
+    [
+      1721520000,
+      10066
+    ],
+    [
+      1721606400,
+      10628
+    ],
+    [
+      1721692800,
+      10383
+    ],
+    [
+      1721779200,
+      10009
+    ],
+    [
+      1721865600,
+      9360
+    ],
+    [
+      1721952000,
+      9035
+    ],
+    [
+      1722038400,
+      10462
+    ],
+    [
+      1722124800,
+      10684
+    ],
+    [
+      1722211200,
+      11057
+    ],
+    [
+      1722297600,
+      10417
+    ],
+    [
+      1722384000,
+      10448
+    ],
+    [
+      1722470400,
+      9817
+    ],
+    [
+      1722556800,
+      9359
+    ],
+    [
+      1722643200,
+      8730
+    ],
+    [
+      1722729600,
+      8345
+    ],
+    [
+      1722816000,
+      8005
+    ],
+    [
+      1722902400,
+      8506
+    ],
+    [
+      1722988800,
+      8366
+    ],
+    [
+      1723075200,
+      9021
+    ],
+    [
+      1723161600,
+      8840
+    ],
+    [
+      1723248000,
+      8899
+    ],
+    [
+      1723334400,
+      8368
+    ],
+    [
+      1723420800,
+      8319
+    ],
+    [
+      1723507200,
+      8521
+    ],
+    [
+      1723593600,
+      8320
+    ],
+    [
+      1723680000,
+      8297
+    ],
+    [
+      1723766400,
+      7370
+    ],
+    [
+      1723852800,
+      7439
+    ],
+    [
+      1723939200,
+      7243
+    ],
+    [
+      1724025600,
+      8114
+    ],
+    [
+      1724112000,
+      7708
+    ],
+    [
+      1724198400,
+      7651
+    ],
+    [
+      1724284800,
+      7539
+    ],
+    [
+      1724371200,
+      7801
+    ],
+    [
+      1724457600,
+      8161
+    ],
+    [
+      1724544000,
+      8233
+    ],
+    [
+      1724630400,
+      8259
+    ],
+    [
+      1724716800,
+      7381
+    ],
+    [
+      1724803200,
+      7145
+    ],
+    [
+      1724889600,
+      6854
+    ],
+    [
+      1724976000,
+      6679
+    ],
+    [
+      1725062400,
+      6542
+    ],
+    [
+      1725148800,
+      6337
+    ],
+    [
+      1725235200,
+      6444
+    ],
+    [
+      1725321600,
+      6242
+    ],
+    [
+      1725408000,
+      6404
+    ],
+    [
+      1725494400,
+      6110
+    ],
+    [
+      1725580800,
+      5848
+    ],
+    [
+      1725667200,
+      6037
+    ],
+    [
+      1725753600,
+      6042
+    ],
+    [
+      1725840000,
+      5980
+    ],
+    [
+      1725926400,
+      6310
+    ],
+    [
+      1726012800,
+      6061
+    ],
+    [
+      1726099200,
+      6302
+    ],
+    [
+      1726185600,
+      6636
+    ],
+    [
+      1726272000,
+      6548
+    ],
+    [
+      1726358400,
+      6437
+    ],
+    [
+      1726444800,
+      6373
+    ],
+    [
+      1726531200,
+      6462
+    ],
+    [
+      1726617600,
+      6383
+    ],
+    [
+      1726704000,
+      6959
+    ],
+    [
+      1726790400,
+      7156
+    ],
+    [
+      1726876800,
+      7217
+    ],
+    [
+      1726963200,
+      7226
+    ],
+    [
+      1727049600,
+      7275
+    ],
+    [
+      1727136000,
+      7357
+    ],
+    [
+      1727222400,
+      7450
+    ],
+    [
+      1727308800,
+      7832
+    ],
+    [
+      1727395200,
+      7932
+    ],
+    [
+      1727481600,
+      7958
+    ],
+    [
+      1727568000,
+      8020
+    ],
+    [
+      1727654400,
+      7910
+    ],
+    [
+      1727740800,
+      7426
+    ],
+    [
+      1727827200,
+      7212
+    ],
+    [
+      1727913600,
+      7100
+    ],
+    [
+      1728000000,
+      7475
+    ],
+    [
+      1728086400,
+      7483
+    ],
+    [
+      1728172800,
+      7856
+    ],
+    [
+      1728259200,
+      7679
+    ],
+    [
+      1728345600,
+      7641
+    ],
+    [
+      1728432000,
+      7421
+    ],
+    [
+      1728518400,
+      7474
+    ],
+    [
+      1728604800,
+      7845
+    ],
+    [
+      1728691200,
+      7962
+    ],
+    [
+      1728777600,
+      7982
+    ],
+    [
+      1728864000,
+      8686
+    ],
+    [
+      1728950400,
+      8470
+    ],
+    [
+      1729036800,
+      8634
+    ],
+    [
+      1729123200,
+      8355
+    ],
+    [
+      1729209600,
+      8626
+    ],
+    [
+      1729296000,
+      9038
+    ],
+    [
+      1729382400,
+      9554
+    ],
+    [
+      1729468800,
+      9551
+    ],
+    [
+      1729555200,
+      9601
+    ],
+    [
+      1729641600,
+      10212
+    ],
+    [
+      1729728000,
+      10436
+    ],
+    [
+      1729814400,
+      9923
+    ],
+    [
+      1729900800,
+      10300
+    ],
+    [
+      1729987200,
+      10623
+    ],
+    [
+      1730073600,
+      10871
+    ],
+    [
+      1730160000,
+      10845
+    ],
+    [
+      1730246400,
+      10830
+    ],
+    [
+      1730332800,
+      10421
+    ],
+    [
+      1730419200,
+      10302
+    ],
+    [
+      1730505600,
+      10309
+    ],
+    [
+      1730592000,
+      10068
+    ],
+    [
+      1730678400,
+      9954
+    ],
+    [
+      1730764800,
+      10865
+    ],
+    [
+      1730851200,
+      11989
+    ],
+    [
+      1730937600,
+      12647
+    ],
+    [
+      1731024000,
+      12671
+    ],
+    [
+      1731110400,
+      12864
+    ],
+    [
+      1731196800,
+      13492
+    ],
+    [
+      1731283200,
+      14164
+    ],
+    [
+      1731369600,
+      13669
+    ],
+    [
+      1731456000,
+      14284
+    ]
+  ],
+  "totalDataChartBreakdown": [
+    [
+      1708387200,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 6983
+        }
+      }
+    ],
+    [
+      1708473600,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 6901
+        }
+      }
+    ],
+    [
+      1708560000,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 6857
+        }
+      }
+    ],
+    [
+      1708646400,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 6695
+        }
+      }
+    ],
+    [
+      1708732800,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 6997
+        }
+      }
+    ],
+    [
+      1708819200,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 6945
+        }
+      }
+    ],
+    [
+      1708905600,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 7462
+        }
+      }
+    ],
+    [
+      1708992000,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 7358
+        }
+      }
+    ],
+    [
+      1709078400,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 7983
+        }
+      }
+    ],
+    [
+      1709164800,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 9034
+        }
+      }
+    ],
+    [
+      1709251200,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 8834
+        }
+      }
+    ],
+    [
+      1709337600,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 8851
+        }
+      }
+    ],
+    [
+      1709424000,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 8891
+        }
+      }
+    ],
+    [
+      1709510400,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 8980
+        }
+      }
+    ],
+    [
+      1709596800,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 8485
+        }
+      }
+    ],
+    [
+      1709683200,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 9571
+        }
+      }
+    ],
+    [
+      1709769600,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 10311
+        }
+      }
+    ],
+    [
+      1709856000,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 10409
+        }
+      }
+    ],
+    [
+      1709942400,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 10486
+        }
+      }
+    ],
+    [
+      1710028800,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 9932
+        }
+      }
+    ],
+    [
+      1710115200,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 10809
+        }
+      }
+    ],
+    [
+      1710201600,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 10817
+        }
+      }
+    ],
+    [
+      1710288000,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 11984,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1710374400,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 11797,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1710460800,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 12561,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1710547200,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 13248,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1710633600,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 12934,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1710720000,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 14738,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1710806400,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 12660,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1710892800,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 14047,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1710979200,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 12826,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1711065600,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 12780,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1711152000,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 12722,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1711238400,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 13352,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1711324800,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 13911,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1711411200,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 13906,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1711497600,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 13264,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1711584000,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 13752,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1711670400,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 14029,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1711756800,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 14234,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1711843200,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 14759,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1711929600,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 13809,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1712016000,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 13378,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1712102400,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 13335,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1712188800,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 13114,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1712275200,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 12622,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1712361600,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 13093,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1712448000,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 12784,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1712534400,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 13027,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1712620800,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 12446,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1712707200,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 12482,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1712793600,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 12573,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1712880000,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 10810,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1712966400,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 9904,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1713052800,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 10690,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1713139200,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 9901,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1713225600,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 9828,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1713312000,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 9518,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1713398400,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 9325,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1713484800,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 10167,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1713571200,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 10618,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1713657600,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 10425,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1713744000,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 11170,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1713830400,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 10999,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1713916800,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 10336,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1714003200,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 10154,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1714089600,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 9620,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1714176000,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 10081,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1714262400,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 9650,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1714348800,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 9570,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1714435200,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 8705,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1714521600,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 8986,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1714608000,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 9740,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1714694400,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 9857,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1714780800,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 9997,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1714867200,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 10073,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1714953600,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 10796,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1715040000,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 10221,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1715126400,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 9847,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1715212800,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 10479,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1715299200,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 9836,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1715385600,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 9961,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1715472000,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 9596,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1715558400,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 9947,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1715644800,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 9687,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1715731200,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 10936,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1715817600,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 10971,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1715904000,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 11860,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1715990400,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 11815,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1716076800,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 11738,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1716163200,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 12590,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1716249600,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 12165,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1716336000,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 12130,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1716422400,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 11787,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1716508800,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 11389,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1716595200,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 11317,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1716681600,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 11238,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1716768000,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 11554,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1716854400,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 11446,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1716940800,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 11518,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1717027200,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 11314,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1717113600,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 11299,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1717200000,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 11208,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1717286400,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 11026,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1717372800,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 8573,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1717459200,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 11029,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1717545600,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 11548,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1717632000,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 11490,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1717718400,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 11212,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1717804800,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 10747,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1717891200,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 10326,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1717977600,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 10553,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1718064000,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 10273,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1718150400,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 9618,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1718236800,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 9940,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1718323200,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 9549,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1718409600,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 9246,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1718496000,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 9267,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1718582400,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 9412,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1718668800,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 8553,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1718755200,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 8594,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1718841600,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 8407,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1718928000,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 8322,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1719014400,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 8337,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1719100800,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 8349,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1719187200,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 7763,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1719273600,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 8347,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1719360000,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 8512,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1719446400,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 8349,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1719532800,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 8906,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1719619200,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 8582,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1719705600,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 8454,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1719792000,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 8881,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1719878400,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 8893,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1719964800,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 9036,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1720051200,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 8160,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1720137600,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 7381,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1720224000,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 8024,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1720310400,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 8376,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1720396800,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 7731,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1720483200,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 8241,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1720569600,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 8304,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1720656000,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 8339,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1720742400,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 8036,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1720828800,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 8137,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1720915200,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 8449,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1721001600,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 8823,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1721088000,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 9359,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1721174400,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 9400,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1721260800,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 9298,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1721347200,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 9406,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1721433600,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 9927,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1721520000,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 10066,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1721606400,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 10628,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1721692800,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 10383,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1721779200,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 10009,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1721865600,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 9360,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1721952000,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 9035,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1722038400,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 10462,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1722124800,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 10684,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1722211200,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 11057,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1722297600,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 10417,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1722384000,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 10448,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1722470400,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 9817,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1722556800,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 9359,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1722643200,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 8730,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1722729600,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 8345,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1722816000,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 8005,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1722902400,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 8506,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1722988800,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 8366,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1723075200,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 9021,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1723161600,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 8840,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1723248000,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 8899,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1723334400,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 8368,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1723420800,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 8319,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1723507200,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 8521,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1723593600,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 8320,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1723680000,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 8297,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1723766400,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 7370,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1723852800,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 7439,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1723939200,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 7243,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1724025600,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 8114,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1724112000,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 7708,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1724198400,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 7651,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1724284800,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 7539,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1724371200,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 7801,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1724457600,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 8161,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1724544000,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 8233,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1724630400,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 8259,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1724716800,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 7381,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1724803200,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 7145,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1724889600,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 6854,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1724976000,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 6679,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1725062400,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 6542,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1725148800,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 6337,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1725235200,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 6444,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1725321600,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 6242,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1725408000,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 6404,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1725494400,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 6110,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1725580800,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 5848,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1725667200,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 6037,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1725753600,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 6042,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1725840000,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 5980,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1725926400,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 6310,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1726012800,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 6061,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1726099200,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 6302,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1726185600,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 6636,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1726272000,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 6548,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1726358400,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 6437,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1726444800,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 6373,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1726531200,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 6462,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1726617600,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 6383,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1726704000,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 6959,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1726790400,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 7156,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1726876800,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 7217,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1726963200,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 7226,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1727049600,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 7275,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1727136000,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 7357,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1727222400,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 7450,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1727308800,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 7832,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1727395200,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 7932,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1727481600,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 7958,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1727568000,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 8020,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1727654400,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 7910,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1727740800,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 7426,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1727827200,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 7212,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1727913600,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 7100,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1728000000,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 7475,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1728086400,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 7483,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1728172800,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 7856,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1728259200,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 7679,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1728345600,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 7641,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1728432000,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 7421,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1728518400,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 7474,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1728604800,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 7845,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1728691200,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 7962,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1728777600,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 7982,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1728864000,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 8686,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1728950400,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 8470,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1729036800,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 8634,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1729123200,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 8355,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1729209600,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 8626,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1729296000,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 9038,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1729382400,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 9554,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1729468800,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 9551,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1729555200,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 9601,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1729641600,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 10212,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1729728000,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 10436,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1729814400,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 9923,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1729900800,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 10300,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1729987200,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 10623,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1730073600,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 10871,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1730160000,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 10845,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1730246400,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 10830,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1730332800,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 10421,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1730419200,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 10302,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1730505600,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 10309,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1730592000,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 10068,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1730678400,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 9954,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1730764800,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 10865,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1730851200,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 11989,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1730937600,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 12647,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1731024000,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 12671,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1731110400,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 12864,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1731196800,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 13492,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1731283200,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 14164,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1731369600,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 13669,
+          "Marinade Native": 0
+        }
+      }
+    ],
+    [
+      1731456000,
+      {
+        "solana": {
+          "Marinade Liquid Staking": 14284,
+          "Marinade Native": 0
+        }
+      }
+    ]
+  ],
+  "change_1d": -3.49
+}
